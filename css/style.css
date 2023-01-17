@@ -4,14 +4,20 @@ body{
 
 header{
     background-color: white;
+
 }
 
-.logo{
+.box{
+    display: inline-block;
     vertical-align: middle;
+    
 }
 
 h1{
+    display: inline-block;
     vertical-align: middle;
+    margin: 0%;
+   
 }
 
 .circular{
